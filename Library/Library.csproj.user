@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>E:\Compar.Academy\csharp\Library\Library\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AuthorScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CategoryScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LanguageScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RentBookScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReturnBookScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowReadersScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDashboardScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

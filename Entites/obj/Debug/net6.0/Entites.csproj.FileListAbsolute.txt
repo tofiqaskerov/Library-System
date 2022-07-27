@@ -1,0 +1,12 @@
+E:\Compar.Academy\csharp\Library\Entites\bin\Debug\net6.0\Entites.deps.json
+E:\Compar.Academy\csharp\Library\Entites\bin\Debug\net6.0\Entites.dll
+E:\Compar.Academy\csharp\Library\Entites\bin\Debug\net6.0\Entites.pdb
+E:\Compar.Academy\csharp\Library\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+E:\Compar.Academy\csharp\Library\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+E:\Compar.Academy\csharp\Library\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+E:\Compar.Academy\csharp\Library\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+E:\Compar.Academy\csharp\Library\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+E:\Compar.Academy\csharp\Library\Entites\obj\Debug\net6.0\Entites.dll
+E:\Compar.Academy\csharp\Library\Entites\obj\Debug\net6.0\refint\Entites.dll
+E:\Compar.Academy\csharp\Library\Entites\obj\Debug\net6.0\Entites.pdb
+E:\Compar.Academy\csharp\Library\Entites\obj\Debug\net6.0\ref\Entites.dll
